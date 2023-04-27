@@ -1,0 +1,33 @@
+{
+  "name": "SushiSwap Menu",
+  "timestamp": "2023-04-27T23:28:06.848Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": [
+    "sushiswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Gambit",
+      "address": "0x949Ae9EdEE550017D1d9967A0C40Bcdf338F7DEe",
+      "symbol": "GMBT",
+      "decimals": 18,
+      "chainId": 71401,
+      "logoURI": "https://raw.githubusercontent.com/mrchandanmishra/nervoslogo/main/gambit-logo.png"
+    },
+    {
+      "name": "Wrapped CKB",
+      "address": "0x6b42247e04DEaD6F0A4595FE953E99cD376eC1D4",
+      "symbol": "WCKB",
+      "decimals": 18,
+      "chainId": 71401,
+      "logoURI": "https://assets.coingecko.com/coins/images/9566/small/Nervos_White.png?1608280856"
+    }
+  ]
+}
